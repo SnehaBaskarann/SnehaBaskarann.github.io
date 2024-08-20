@@ -1,0 +1,176 @@
+{
+  "Header": {
+    "title": "Hi , I'm Sneha Baskaran",
+    "paragraph":"Full Stack Developer"
+  },
+  "About": {
+    "paragraph": "I'm Sneha Baskaran , dedicated and passionate person. Having thirst to learn new technologies to stay updated to the current IT Industry . Currently , I'm Working in Relevantz Technology Services as Junior Software Engineer in Chennai .",
+    "Why": [
+     "Qualification - Graduated B.Tech Information Technology. "
+    ],
+    "Why2": [
+      "Technical skills - Mastery in c# , React and MySql."
+    ],
+    "Why3": [
+      "Passion - Dancing and Learning new things."
+    ]
+
+  },
+  "Gallery": [
+    {
+      "title": "Learning Experience platform (LXP)",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-code",
+      "name": "C#",
+      "text": "90%"
+    },
+    {
+      "icon": "fa fa-html5",
+      "name": "Html",
+      "text": "95%"
+    },
+    {
+      "icon": "fa fa-css3",
+      "name": "CSS",
+      "text": "90%"
+    },
+    {
+      "icon": "fa fa-code",
+      "name": "Javascript",
+      "text": "85%"
+    },
+    {
+      "icon": "fa fa-database",
+      "name": "MySql",
+      "text": "85%"
+    },
+    {
+      "icon": "fa fa-cloud",
+      "name": "Azure cloud",
+      "text": "85%"
+    },
+    {
+      "icon": "fa fa-code",
+      "name": "React js",
+      "text": "85%"
+    },
+    {
+      "icon": "fa fa-cogs",
+      "name": "Devops",
+      "text": "70%"
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "lxp.jpg",
+      "text": "Developed a Learning Experience platform (LXP) that delivers personalized learning experience for the end users.",
+      "name": "Learning Experience Platform 2024"
+    },
+    {
+      "img": "favicon.jpg",
+      "text": "Developed a Mobile store management system during my training period where the user can login in to the website they can see the mobiles , categorize based on the model , Brand name and price. User can be able to add the mobile to the cart if they want to buy the added mobile they can buy or they can able to purchase later.",
+      "name": "2024"
+    },
+    {
+      "img": "Beh.jpg",
+      "text": "Completed a Culture validation certification",
+      "name": "2024"
+    }
+    
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "John Doe",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jane Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address":"Vellore district , Tamilnadu",
+    "email": "snehasne0820@gmail.com",
+    "linkedIn": "https://in.linkedin.com/in/sneha-baskaran-4228b01b1",
+    "github": "https://github.com/SnehaBaskarann"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-graduation-cap",
+      "title": "Education",
+      "text": "Completed my under graduate in B.Tech Information Technology with 8.43 CGPA in C.Abdul Hakeem college of Engineering and Technology."
+    },
+    {
+      "icon": "fa fa-code",
+      "title": "Technical Skills",
+      "text": "Mastery in c#, React, MySql, and  30+ technologies."
+    },
+    {
+      "icon": "fa fa-laptop",
+      "title": "Work Experience",
+      "text": "I'm a trained full stack developer and I have a 1+ years of experience in Relevantz Technology Services."
+    },
+    {
+      "icon": "fa fa-gift",
+      "title": "Achievements",
+      "text": "I'm happy to share that I have been promoted from Trainee-Software Engineer to Junior Software Engineer. Over the past year , I have had the privilege of undergoing comprehensive training and had a hands on experience working with real-world projects. "
+    }
+  ]
+}
